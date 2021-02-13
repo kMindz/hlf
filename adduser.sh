@@ -8,3 +8,4 @@ mv ./prereqs-ubuntu.sh /home/kmindz/
 cd /home/kmindz/
 
 su kmindz
+
